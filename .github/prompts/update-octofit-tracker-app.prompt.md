@@ -1,5 +1,8 @@
+---
 mode: 'agent'
 model: GPT-4.1
+description: 'Update the Django project files to support the Octofit Tracker app features and MongoDB integration.'
+---
 
 # Django App Updates
 
